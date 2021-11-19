@@ -1,9 +1,9 @@
-Origin: My Repo
-Label: My Repo
+Origin: z4krepo
+Label: z4krepo
 Suite: stable
 Version: 1.0
-Codename: makingarepo
+Codename: z4krepolol
 Architectures: iphoneos-arm
 Components: main
-Description: My development repo.
+Description: fuck you xd
 MD5Sum:
